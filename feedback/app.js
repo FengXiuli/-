@@ -14,7 +14,7 @@ var template = require('art-template')
 
 var comments = [
   {
-    name: '张三',
+    name: '增增',
     message: '今天天气不错！',
     dateTime: '2015-10-16'
   },
